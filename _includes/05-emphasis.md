@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. Thoughtful
+2. Inquisitive
+3. Humorous
+
+Like to work *with* others (not **against** them).
+
+:relaxed:
