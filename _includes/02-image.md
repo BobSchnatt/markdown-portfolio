@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Cute dog poking his head above the table](https://www.pexels.com/photo/adorable-blur-breed-close-up-406014/)
